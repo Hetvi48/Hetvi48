@@ -95,7 +95,7 @@ Currently, I'm focused on:
 
 ## 💻 Featured Projects
 
-### <a href="[https://github.com/](https://github.com/Hetvi48/Smart-Watch-Health-Analysis)">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
+### <a href="https://github.com/Hetvi48/Smart-Watch-Health-Analysis">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
 
 Developed an ML-based **Remaining Useful Life (RUL) prediction system** for aircraft engines using the **NASA C-MAPSS dataset (FD001–FD004)**.
 
