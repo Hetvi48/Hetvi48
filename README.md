@@ -1,7 +1,7 @@
 <h1 align="center"><strong>Hi 👋, I'm Hetvi Khadela</strong></h1>
 
 <p align="center">
-  <strong>Final Year CSE (Data Science) Student | AI/ML Enthusiast | GenAI Developer</strong>
+  <strong>Final Year CSE (Data Science) Student | AI/ML Engineer | GenAI Developer</strong>
 </p>
 
 <p align="center">
