@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 What I'm Working On
+### 🚀 What I'm Working On
 
 Currently, I'm focused on:
 
@@ -47,9 +47,9 @@ Currently, I'm focused on:
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### 💻 Programming Languages
+#### 💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,7 +57,7 @@ Currently, I'm focused on:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### 🤖 Frameworks & Libraries
+#### 🤖 Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -69,7 +69,7 @@ Currently, I'm focused on:
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+#### 🔧 Tools & Platforms
 
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -82,46 +82,46 @@ Currently, I'm focused on:
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-### 🧠 Technologies & Concepts
+#### 🧠 Technologies & Concepts
 
 `Machine Learning` • `Deep Learning` • `GANs` • `Generative AI`
 `Data Analysis` • `Statistical Analysis` • `Prompt Engineering`
 `Concurrency` • `Multithreading` • `Asynchronous Programming`
 `LLMs` • `LangChain` • `AI/ML Production Systems`
 
-### 🤝 Soft Skills
+#### 🤝 Soft Skills
 
 `Problem Solving` • `Teamwork` • `Communication` • `Networking`
 
 ---
 
-## 💻 Featured Projects
+### 💻 Featured Projects
 
-### <a href="https://github.com/Hetvi48/AeroCare">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
+#### <a href="https://github.com/Hetvi48/AeroCare">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
 
 Developed an ML-based **Remaining Useful Life (RUL) prediction system** for aircraft engines using the **NASA C-MAPSS dataset (FD001–FD004)**.
 
 ---
 
-### <a href="https://github.com/Hetvi48/image-downloader-and-resizer">🖼️ Image Downloader & Resizer</a>
+#### <a href="https://github.com/Hetvi48/image-downloader-and-resizer">🖼️ Image Downloader & Resizer</a>
 
 A concurrent image processing system designed to efficiently download and resize images.
 
 ---
 
-### <a href="https://github.com/Hetvi48/Smart-Watch-Health-Analysis">⌚ Smart-Watch Health Analysis</a>
+#### <a href="https://github.com/Hetvi48/Smart-Watch-Health-Analysis">⌚ Smart-Watch Health Analysis</a>
 
 Developing a data-driven system to analyze smartwatch data and predict different health categories.
 
 ---
 
-### <a href="https://github.com/Hetvi48/Health-Insurance-claim-prediction-model">🏥 Health Insurance Claim Prediction Model</a>
+#### <a href="https://github.com/Hetvi48/Health-Insurance-claim-prediction-model">🏥 Health Insurance Claim Prediction Model</a>
 
 Built a production-ready Machine Learning prediction system with an automated preprocessing and prediction pipeline.
 
 ---
 
-## 🏆 Participations & Achievements
+### 🏆 Participations & Achievements
 
 * 🔬 Research paper accepted in **ITEGAM-JETIA**, a Scopus-indexed journal - <i>"Adaptive Gated Ensemble BiLSTM with Attention for Robust Remaining Useful Life Prediction in Aero Engines"</i>
 * 🥇 **Odoo Hackathon 2025** — Finalist
@@ -131,7 +131,7 @@ Built a production-ready Machine Learning prediction system with an automated pr
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img
