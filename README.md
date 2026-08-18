@@ -9,15 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/hetvi-khadela-616b732a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hetvi48">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:hetvikhadela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/csprep.hetvi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hetvi-khadela-616b732a0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HetviPatel805) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hetvikhadela@gmail.com) 
 </p>
 
 ---
@@ -95,25 +87,25 @@ Currently, I'm focused on:
 
 ## 💻 Featured Projects
 
-### <a href="https://github.com/Hetvi48/Smart-Watch-Health-Analysis">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
+### <a href="https://github.com/Hetvi48/AeroCare">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
 
 Developed an ML-based **Remaining Useful Life (RUL) prediction system** for aircraft engines using the **NASA C-MAPSS dataset (FD001–FD004)**.
 
 ---
 
-### 🖼️ Image Downloader & Resizer
+### <a href="https://github.com/Hetvi48/image-downloader-and-resizer">🖼️ Image Downloader & Resizer</a>
 
 A concurrent image processing system designed to efficiently download and resize images.
 
 ---
 
-### ⌚ Smart-Watch Health Analysis
+### <a href="https://github.com/Hetvi48/Smart-Watch-Health-Analysis">⌚ Smart-Watch Health Analysis</a>
 
 Developing a data-driven system to analyze smartwatch data and predict different health categories.
 
 ---
 
-### 🏥 Health Insurance Claim Prediction Model
+### <a href="https://github.com/Hetvi48/Health-Insurance-claim-prediction-model">🏥 Health Insurance Claim Prediction Model</a>
 
 Built a production-ready Machine Learning prediction system with an automated preprocessing and prediction pipeline.
 
@@ -121,7 +113,7 @@ Built a production-ready Machine Learning prediction system with an automated pr
 
 ## 🏆 Participations & Achievements
 
-* 🔬 Research paper accepted in **ITEGAM-JETIA**, a Scopus-indexed journal
+* 🔬 Research paper accepted in **ITEGAM-JETIA**, a Scopus-indexed journal - <i>"Adaptive Gated Ensemble BiLSTM with Attention for Robust Remaining Useful Life Prediction in Aero Engines"</i>
 * 🥇 **Odoo Hackathon 2025** — Finalist
 * 🥇 **NASSCOM Tech Developer Hackathon 2025** — Finalist
 * 🥇 **MumbaiHacks'25** — Finalist
@@ -139,5 +131,5 @@ Built a production-ready Machine Learning prediction system with an automated pr
 </p>
 
 <p align="center">
-  <i>✨love to play with data, especially when it reveals insights that can lead to a billion-dollar idea. love to solve problems and turning those solutions into powerful, real-world applications.</i>
+  <i>✨love to play with data, especially when it reveals insights that can lead to a billion-dollar idea. love to solve problems and turning those solutions into powerful, real-world applications.✨</i>
 </p>
