@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hetvi Khadela
+<h1 align="center"><strong>Hi 👋, I'm Hetvi Khadela</strong></h1>
 
 <p align="center">
   <strong>Final Year CSE (Data Science) Student | AI/ML Enthusiast | GenAI Developer</strong>
@@ -9,9 +9,15 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/hetvi-khadela-616b732a0">LinkedIn</a> •
-  <a href="https://github.com/Hetvi48">GitHub</a> •
-  <a href="mailto:hetvikhadela@gmail.com">Email</a>
+  <a href="www.linkedin.com/in/hetvi-khadela-616b732a0">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Hetvi48">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:hetvikhadela@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -147,25 +153,11 @@ Built a production-ready Machine Learning prediction system with an automated pr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetvi48&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetvi48&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="www.linkedin.com/in/hetvi-khadela-616b732a0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Hetvi48">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:hetvikhadela@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 <p align="center">
   <i>✨love to play with data, especially when it reveals insights that can lead to a billion-dollar idea. love to solve problems and turning those solutions into powerful, real-world applications.</i>
