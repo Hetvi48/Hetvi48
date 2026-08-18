@@ -95,14 +95,9 @@ Currently, I'm focused on:
 
 ## 💻 Featured Projects
 
-### ✈️ AeroCare — Predictive Maintenance System for Aircraft Engines
+### <a href="[https://github.com/](https://github.com/Hetvi48/Smart-Watch-Health-Analysis)">✈️ AeroCare — Predictive Maintenance System for Aircraft Engines</a>
 
 Developed an ML-based **Remaining Useful Life (RUL) prediction system** for aircraft engines using the **NASA C-MAPSS dataset (FD001–FD004)**.
-
-* 📈 Achieved **82% prediction accuracy**
-* 🔬 Research paper accepted in **ITEGAM-JETIA**, a Scopus-indexed journal
-* 🧠 Implemented Machine Learning and Deep Learning approaches for predictive maintenance
-* 🛠️ **Tech Stack:** Python, Machine Learning, Deep Learning
 
 ---
 
@@ -110,21 +105,11 @@ Developed an ML-based **Remaining Useful Life (RUL) prediction system** for airc
 
 A concurrent image processing system designed to efficiently download and resize images.
 
-* ⚡ Downloads images concurrently using **Multithreading**
-* 🔄 Resizes images in parallel using **Multiprocessing**
-* 🧵 Demonstrates practical applications of Python concurrency
-* 🛠️ **Tech Stack:** Python, Multithreading, Multiprocessing
-
 ---
 
 ### ⌚ Smart-Watch Health Analysis
 
 Developing a data-driven system to analyze smartwatch data and predict different health categories.
-
-* 📊 Data analysis using SQL and Excel
-* 🤖 Machine Learning models for prediction
-* 📈 Focused on extracting meaningful insights from health-related data
-* 🛠️ **Tech Stack:** Python, SQL, Excel, Machine Learning
 
 ---
 
@@ -132,17 +117,11 @@ Developing a data-driven system to analyze smartwatch data and predict different
 
 Built a production-ready Machine Learning prediction system with an automated preprocessing and prediction pipeline.
 
-* 🎯 Achieved **97% accuracy**
-* ⚙️ Implemented automated ML pipelines
-* 🔄 Used `ColumnTransformer` for preprocessing
-* 📊 Applied model evaluation techniques
-* 💾 Used `Joblib` for model persistence
-* 🛠️ **Tech Stack:** Python, Scikit-Learn, Pipelines, ColumnTransformer, Model Evaluation, Joblib
-
 ---
 
 ## 🏆 Participations & Achievements
 
+* 🔬 Research paper accepted in **ITEGAM-JETIA**, a Scopus-indexed journal
 * 🥇 **Odoo Hackathon 2025** — Finalist
 * 🥇 **NASSCOM Tech Developer Hackathon 2025** — Finalist
 * 🥇 **MumbaiHacks'25** — Finalist
@@ -150,11 +129,14 @@ Built a production-ready Machine Learning prediction system with an automated pr
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hetvi48&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Hetvi48&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hetvi48&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Hetvi48&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&dates=2DD4BF"
+    alt="GitHub Streak Stats"
+  />
+</p>
 
 <p align="center">
   <i>✨love to play with data, especially when it reveals insights that can lead to a billion-dollar idea. love to solve problems and turning those solutions into powerful, real-world applications.</i>
